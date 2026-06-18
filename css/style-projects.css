@@ -68,3 +68,31 @@ body {
 .img-box:hover .overlay {
   opacity: 1;
 }
+
+.projectPhoto-box .img-thumbnail {
+  width: 750px;
+}
+
+.text {
+  margin-top: 5%;
+}
+
+.text h3 {
+  font-size: 40px;
+  color: black;
+}
+
+.text h5 {
+  margin-top: 3%;
+  font-size: 25px;
+  color: rgb(79, 78, 78);
+}
+
+.carousel-indicators {
+  margin-bottom: 6rem;
+  margin-left: 25%;
+}
+
+.carousel-indicators [data-bs-target] {
+  background-color: #000000;
+}
