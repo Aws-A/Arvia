@@ -217,6 +217,16 @@
   display: flex;
 }
 
+.appr {
+  display: flex;
+}
+
+.appr-img {
+  width: 15%;
+  margin-left: 15%;
+  margin-right: -15%;
+}
+
 .div-text {
   padding: 2%;
 }
